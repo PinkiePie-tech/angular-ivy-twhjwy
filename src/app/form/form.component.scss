@@ -1,0 +1,14 @@
+.inline {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  input {
+    flex: 1;
+  }
+}
+
+.incolumn {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
